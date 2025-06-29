@@ -13,9 +13,9 @@ Display Some Data in a Numeriks or Words
 country = Indonesia
 city = Jakarta 
 regency = Jakarta Selatan 
-print = country / or
-print = city / or
-print = regency 
+print(country) / or
+print(city) / or
+print(regency)
 
 To Display Some Words Or An A Phrase
 print("Hi, Welcome To My Workplace's")
