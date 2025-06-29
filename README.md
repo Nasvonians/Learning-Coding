@@ -4,6 +4,11 @@ price = 10
 ammount = 5
 print(price*ammount)
 
+Display The Newest Data Value 
+price = 10000
+price = 10000 * 5
+print(price)
+
 Display Some Data in a Numeriks or Words
 country = Indonesia
 city = Jakarta 
