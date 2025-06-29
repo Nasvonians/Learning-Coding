@@ -1,0 +1,21 @@
+         Python Learning
+Numerik Type Data x Sum Amount Numbers Data
+price = 10
+ammount = 5
+print(price*ammount)
+
+Display Some Data in a Numeriks or Words
+country = Indonesia
+city = Jakarta 
+regency = Jakarta Selatan 
+print = country / or
+print = city / or
+print = regency 
+
+To Display Some Words Or An A Phrase
+print("Hi, Welcome To My Workplace's")
+print("In this place, i'll practice about my coding's skills")
+print("So yeah, take ur time.")
+
+"" => String Type Data ( Could be use in a words and numbers )
+only numbers => Numerik Type Data ( Could be use only for a numbers )
